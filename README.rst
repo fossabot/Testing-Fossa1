@@ -12,6 +12,7 @@
 
    <a href="https://bestpractices.coreinfrastructure.org/projects/74"><img src="https://bestpractices.coreinfrastructure.org/projects/74/badge"></a>
    <a href="https://scorecard.dev/viewer/?uri=github.com/zephyrproject-rtos/zephyr"><img src="https://api.securityscorecards.dev/projects/github.com/zephyrproject-rtos/zephyr/badge"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FTaruN7774%2FTesting-Fossa1?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FTaruN7774%2FTesting-Fossa1.svg?type=shield"/></a>
    <a href="https://github.com/zephyrproject-rtos/zephyr/actions/workflows/twister.yaml?query=branch%3Amain"><img src="https://github.com/zephyrproject-rtos/zephyr/actions/workflows/twister.yaml/badge.svg?event=push"></a>
 
 
@@ -107,3 +108,7 @@ Additional Resources
 .. _Security Advisories Repository: https://github.com/zephyrproject-rtos/zephyr/security
 .. _Tips when asking for help: https://docs.zephyrproject.org/latest/develop/getting_started/index.html#asking-for-help
 .. _Zephyr Tech Talks: https://www.zephyrproject.org/tech-talks
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTaruN7774%2FTesting-Fossa1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTaruN7774%2FTesting-Fossa1?ref=badge_large)
